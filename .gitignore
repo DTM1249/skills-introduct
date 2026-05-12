@@ -35,3 +35,16 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Node #
+########
+node_modules/
+
+# Environment variables #
+#########################
+.env
+
+# IELTS grader output #
+#######################
+essays/
+scores.json
